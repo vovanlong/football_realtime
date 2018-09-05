@@ -1,0 +1,26 @@
+{
+  "name": "football",
+  "version": "1.0.0",
+  "description": "A Chat application built with node, mongodb, express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovanlong/football_realtime.git"
+  },
+  "author": "Vo Van Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovanlong/football_realtime/issues"
+  },
+  "homepage": "https://github.com/vovanlong/football_realtime#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dependable": "^1.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10"
+  }
+}
